@@ -1,0 +1,23 @@
+{
+    "name": "valuetypes/uuid-contracts",
+    "description": "UUID value types contracts",
+    "keywords": "uuid, value type, interface, contract",
+    "homepage": "https://github.com/ValueTypes/Uuid-Contracts",
+    "authors": [
+        {
+            "name": "Bas Hamar de la Brethonière",
+            "email": "Basje@users.noreply.github.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ValueTypes/Uuid-Contracts/issues",
+        "source": "https://github.com/ValueTypes/Uuid-Contracts"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ValueTypes\\UuidContracts\\": "src/"
+        }
+    }
+}
