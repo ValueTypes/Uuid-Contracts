@@ -11,13 +11,13 @@
  *
  */
 
-namespace ValueTypes\UuidContracts;
+namespace ValueTypes\UuidContracts\Rfc4122;
 
 /**
  * Represents a universally unique identifier (UUID). This is a special case of
  * UUIDs where all bits are set to 0.
  *
  * Interface NilUuid
- * @package ValueTypes\UuidContracts
+ * @package ValueTypes\UuidContracts\Rfc4122
  */
 interface NilUuid extends Uuid {}
