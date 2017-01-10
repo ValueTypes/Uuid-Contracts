@@ -12,7 +12,7 @@
         "contracts"
     ],
     "homepage": "https://github.com/ValueTypes/Uuid-Contracts",
-    "license": "Apache-2",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Bas Hamar de la Brethonière",
