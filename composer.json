@@ -1,7 +1,16 @@
 {
     "name": "valuetypes/uuid-contracts",
     "description": "UUID value types contracts",
-    "keywords": "uuid, value type, interface, contract",
+    "keywords": [
+        "uuid",
+        "value type",
+        "value types",
+        "valuetypes",
+        "interface",
+        "interfaces",
+        "contract",
+        "contracts"
+    ],
     "homepage": "https://github.com/ValueTypes/Uuid-Contracts",
     "authors": [
         {
