@@ -22,8 +22,7 @@ This package will be versioned according to the [Semver 2.0.0] convention.
 
 ## License
 
-This package will be open sourced using a liberal license. Which one is still to
-be determined.
+This package is released under the Apache License, version 2.0.
 
 [Value Types library]: https://github.com/ValueTypes
 [Semver 2.0.0]: http://semver.org/
